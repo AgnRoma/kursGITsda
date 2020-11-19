@@ -1,4 +1,6 @@
 inna wersja tego pliku. 
 
 Boli mnie głowa i nogi.
-Jestem padnieta...
+Jestem padnieta... 
+
+Dodanie nowje eksperymentalnej funkcjonalności.
